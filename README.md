@@ -31,6 +31,10 @@ Age
 Outcome (Target Variable)
 
 
+
+
+
+
 ⚙️ Technologies Used
 Python
 
@@ -46,6 +50,9 @@ Scikit-Learn
 
 SHAP
 
+
+
+
 🛠️ Project Workflow
 Data Cleaning
 
@@ -58,6 +65,9 @@ Exploratory Data Analysis (EDA)
 Visualize key variables
 
 Understand feature correlations
+
+
+
 
 Modeling
 
@@ -74,10 +84,17 @@ Use SHAP values
 Create force plots, beeswarm plots, and dependence plots
 
 
+
 📈 Results
 Model                       	| Metric             	| Score
+
+
 Linear Regression	            R² Score	              0.28
+
+
 Random Forest Classifier    	Accuracy	              85%
+
+
 Random Forest Classifier	    ROC AUC Score         	0.90
 
 
